@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Haley Slaughter – Dossier Signal Feed</title>
+  <link>https://haleyslaughter.github.io</link>
+  <description>Real-time logs of targeting, resistance, and truth</description>
+  <language>en-us</language>
+  <item>
+    <title>New Entry: Digital Infrastructure Obstruction</title>
+    <link>https://haleyslaughter.github.io/posts/infrastructure-obstruction</link>
+    <description>Class migration files, ERD diagrams, and tampering patterns uncovered.</description>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+    <guid>https://haleyslaughter.github.io/posts/infrastructure-obstruction</guid>
+  </item>
+</channel>
+</rss>
